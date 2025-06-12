@@ -38,6 +38,10 @@ Fake Persona Gen creates realistic but entirely fictional identity profiles to h
 - Professional background (job, company)
 - Online profiles (usernames, passwords)
 
+## 🛠️ Built With
+- **C#** - Core application logic
+- **.NET** - Framework
+
 ---
 
 **Protect your privacy. Test securely. Generate responsibly.**
