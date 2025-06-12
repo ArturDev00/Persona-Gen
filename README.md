@@ -29,27 +29,14 @@ Fake Persona Gen creates realistic but entirely fictional identity profiles to h
 - Security awareness training
 - Phishing campaign development
 
-## 🚀 Quick Start
+## 📱 Screenshot
 ![Image](https://github.com/user-attachments/assets/fd2cd26b-24ca-428e-8028-4769f36c3e89)
 ## 📋 Generated Data
 
-- Personal info (name, age, gender, location)
+- Personal info (name, age, gender, location, and much more)
 - Contact details (email, phone, address)
 - Professional background (job, company)
-- Online profiles (usernames, social media)
-
-## ⚠️ Disclaimer
-
-This tool is for:
-- **Privacy protection** and anonymous online activities
-- **Authorized security testing** with proper permissions
-- **Educational purposes** and security research
-
-Not for identity theft, fraud, or illegal activities. Use responsibly and comply with applicable laws.
-
-## 📄 License
-
-MIT License - Use freely for legitimate purposes.
+- Online profiles (usernames, passwords)
 
 ---
 
